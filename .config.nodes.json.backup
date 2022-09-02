@@ -483,25 +483,6 @@
             }
         }
     },
-    "node-red-contrib-cron-plus": {
-        "name": "node-red-contrib-cron-plus",
-        "version": "1.5.7",
-        "local": true,
-        "user": true,
-        "nodes": {
-            "cronplus": {
-                "name": "cronplus",
-                "types": [
-                    "cronplus"
-                ],
-                "enabled": true,
-                "local": true,
-                "user": false,
-                "module": "node-red-contrib-cron-plus",
-                "file": "/data/atomic/node_modules/node-red-contrib-cron-plus/cronplus.js"
-            }
-        }
-    },
     "node-red-contrib-natsstreaming": {
         "name": "node-red-contrib-natsstreaming",
         "version": "0.3.4",
