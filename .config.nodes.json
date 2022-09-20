@@ -635,5 +635,26 @@
                 "file": "/data/atomic/node_modules/node-red-contrib-uuid/uuid/uuid.js"
             }
         }
+    },
+    "node-red-contrib-cache": {
+        "name": "node-red-contrib-cache",
+        "version": "2.0.3",
+        "local": true,
+        "user": true,
+        "nodes": {
+            "cache": {
+                "name": "cache",
+                "types": [
+                    "Cache in",
+                    "Cache out",
+                    "Cache"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-contrib-cache",
+                "file": "/data/atomic/node_modules/node-red-contrib-cache/dist/cache.js"
+            }
+        }
     }
 }
